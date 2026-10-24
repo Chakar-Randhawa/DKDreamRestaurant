@@ -1,0 +1,8 @@
+{
+  "name": "DK Dream Kitchen Restaurant",
+  "description": "Authentic Thai Flavors & Western Comfort Food in Young, NSW, Australia. Featuring our signature kitchen specialties, Boba & Matcha lineup, dine-in table reservations, and seamless online ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
